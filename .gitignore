@@ -1,0 +1,8 @@
+packages/
+bin/
+obj/
+PerfLogs/
+.vs/
+ChronoMetro.csproj.user
+ChronoMetro.suo
+ChronoMetro.v12.suo
