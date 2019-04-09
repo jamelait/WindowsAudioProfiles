@@ -3,6 +3,8 @@ bin/
 obj/
 PerfLogs/
 .vs/
-ChronoMetro.csproj.user
-ChronoMetro.suo
-ChronoMetro.v12.suo
+WindowsAudioProfiles.csproj.user
+WindowsAudioProfiles.suo
+WindowsAudioProfiles.v12.suo
+WindowsAudioProfiles.CommandLine.csproj.user
+WindowsAudioProfiles.Entity.csproj.user
